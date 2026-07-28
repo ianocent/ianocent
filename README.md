@@ -1,8 +1,9 @@
-[![Portfolio](https://img.shields.io/badge/Portfolio-ianocent.github.io-c9a96e?style=flat-square)](https://ianocent.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dwirianto-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dwirianto)
-![Profile views](https://komarev.com/ghpvc/?username=ianocent&color=blueviolet)
-
 <p align="left">
+  <a href="https://ianocent.github.io/"><img src="https://img.shields.io/badge/Portfolio-ianocent.github.io-c9a96e?style=flat-square"/></a>
+  <a href="https://www.linkedin.com/in/dwirianto"><img src="https://img.shields.io/badge/LinkedIn-dwirianto-0077B5?style=flat-square&logo=linkedin"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ianocent&color=blueviolet"/>
+  <a href="https://wakatime.com/@018d6394-3140-41c9-8cdb-cbe349d742a3"><img src="https://wakatime.com/badge/user/018d6394-3140-41c9-8cdb-cbe349d742a3.svg"/></a>
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30"/>
@@ -14,9 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/>
-  <a href="https://wakatime.com/@018d6394-3140-41c9-8cdb-cbe349d742a3" align="right">
-    <img src="https://wakatime.com/badge/user/018d6394-3140-41c9-8cdb-cbe349d742a3.svg" align="right"/>
-  </a>
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0">
